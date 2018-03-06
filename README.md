@@ -1,6 +1,6 @@
 # shireenrao.github.io
 
-[![Build Status](https://travis-ci.org/shireenrao/shireenrao.github.io.svg)](https://travis-ci.org/shireenrao/shireenrao.github.io)
+[![Build Status](https://travis-ci.org/shireenrao/srinispointofview.svg)](https://travis-ci.org/shireenrao/srinispointofview)
 
 This repo contains the source code for my pelican blog.
 
