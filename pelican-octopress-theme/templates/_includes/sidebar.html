@@ -1,0 +1,68 @@
+<aside class="sidebar">
+  {% if SIDEBAR_IMAGE %}
+  <section>
+      {% if SIDEBAR_MY_NAME %}
+      <h1>{{ SIDEBAR_MY_NAME }}</h1>
+      {% endif %}
+      <p style="font-size:11px">
+	    <img src="{{ SITEURL }}/{{ SIDEBAR_IMAGE }}" alt="{{ SIDEBAR_IMAGE_ALT}}" width="{{SIDEBAR_IMAGE_WIDTH}}" style="float:left;margin: 0px 5px;"/> 
+        {% if SIDEBAR_INTRO %}
+        {{ SIDEBAR_INTRO }} 
+        {% endif %}
+      </p>
+      <div style="clear:both;"></div>
+      <div class="icons">
+        <a class="linkedin" href="http://www.linkedin.com/in/shireenrao" target="_blank"></a>
+        <a class="github" href="http://github.com/shireenrao" target="_blank"></a>
+        <a class="twitter" href="http://twitter.com/shireenrao" target="_blank"></a>
+        <a class="rss" href="{{ SITEURL }}/feeds/all.atom.xml" target="_blank"></a>
+        <a class="email" href="https://feedburner.google.com/fb/a/mailverify?uri=SrinisPointOfView&amp;loc=en_US" target="_blank"></a>
+      </div>
+  </section>
+  {% endif %}
+  {% if categories %}
+  <section>
+      
+    <h1>Categories</h1>
+    <ul id="recent_posts">
+      {% for category, articles in categories %}
+      <li><a href="{{ SITEURL }}/{{ category.url }}">{{ category }}</a> ({{ articles|count }})</li>
+      {% endfor %}
+    </ul>
+  </section>
+  {% endif %} 
+
+  <section>
+    <h1>Recent Posts</h1>
+    <ul id="recent_posts">
+      {% for article in articles[:5] %}
+      <li class="post">
+          <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title|striptags }}</a>
+      </li>
+      {% endfor %}
+    </ul>
+  </section>
+
+  <section>
+  <h1>Tags</h1>
+  {% set tags = tag_cloud | sort(attribute='0') %}
+    {% for tag in tags %}
+        {% if tag.1 == 1 %}
+        {% set styl = '"font-size: 150%"' %}
+        {% elif tag.1 == 2 %}
+        {% set styl = '"font-size: 120%"' %}
+        {% elif tag.1 == 3 %}
+        {% set styl = '"font-size: 100%"' %}
+        {% elif tag.1 == 4 %}
+        {% set styl = '"font-size: 80%"' %}
+        {% endif %}
+        <a href="{{ SITEURL }}/{{ tag.0.url }}" style={{ styl }}>{{ tag.0 }}</a>{% if not loop.last %},{% endif %}
+    {% endfor %}
+  </section>
+
+  {% include '_includes/github.html' %}
+  {% include '_includes/social.html' %}
+  {% include '_includes/links.html' %}
+  {% include '_includes/twitter_sidebar.html' %}
+  {% include '_includes/gplus_sidebar.html' %}
+</aside>

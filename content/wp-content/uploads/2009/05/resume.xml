@@ -1,0 +1,264 @@
+<?xml version="1.0" ?>
+<?xml-stylesheet type="text/xsl" href="resume.xsl"?>
+<resume>
+   <contactInformation>
+      <name>Srinivas R. Nyayapati</name>
+      <address>57 Beach Point Place, #162,</address>
+      <city>Dorchester</city>
+      <state>MA</state>
+      <zip>02125</zip>
+      <phone>(617) 282-2399</phone>
+      <email>srao@cs.umb.edu</email>
+      <site type="perl">www.cs.umb.edu/~srao</site>
+   </contactInformation>
+   <introduction>
+      <title>Software Engineer</title>
+      <description>with three years of experience in the development of database-driven web applications and windows applications.  Skilled across many aspects of software engineering with a strong attention to detail, desire for professional results, and a demonstrated ability to come up to speed quickly in new diverse environments.</description>
+   </introduction>
+   <skillsTree>
+      <skillSet type="Programming Languages">
+         <skill>Java</skill>
+         <skill>C</skill>
+         <skill>C++</skill>
+         <skill>Perl</skill>
+         <skill>VB.NET</skill>
+         <skill>ASP.NET</skill>
+         <skill>PL/SQL</skill>
+      </skillSet>
+      <skillSet type="Java Technologies">
+         <skill>JSP</skill>
+         <skill>JDBC</skill>
+         <skill>Tomcat</skill>
+         <skill>Ant</skill>
+         <skill>JAXB</skill>
+         <skill>Struts</skill>
+      </skillSet>
+      <skillSet type="XML Technologies">
+         <skill>XML</skill>
+         <skill>XSLT</skill>
+         <skill>XPath</skill>
+         <skill>XML Parsers</skill>
+      </skillSet>
+      <skillSet type="Database &amp; Back-end">
+		 <skill>Oracle</skill>	
+         <skill>MySQL</skill>
+         <skill>Progress</skill>
+         <skill>MS Access</skill>
+         <skill>Apache</skill>
+         <skill>IIS</skill>
+      </skillSet>
+      <skillSet type="Presentation">
+         <skill>HTML 4.0 (DHTML, CSS)</skill>
+         <skill>JavaScript</skill>
+      </skillSet>
+      <skillSet type="Platforms">
+         <skill>Unix (Solaris, Linux incl. CVS, shell scripting, cron, System Administration)</skill>
+         <skill>Windows</skill>
+         <skill>MacOs</skill>
+      </skillSet>
+      <skillSet type="Applications">
+         <skill>Photoshop 6.0</skill>
+         <skill>Dreamweaver</skill>
+         <skill>Frontpage</skill>
+         <skill>MS Office suite</skill>
+      </skillSet>
+   </skillsTree>
+   <experienceTree>
+      <experience id="NGrid">
+         <organization>National Grid</organization>
+         <location>Northborough, MA</location>
+         <roles>
+            <role>
+               <title>Software Engineer</title>
+               <dateBegin>June 2003</dateBegin>
+            </role>
+         </roles>
+         <tasks>
+            <task>Designed and Developed a Database backed application to maintain technical data for the companies transformers</task>
+            <task>Performed application's Oracle database design and creation</task>
+            <task>Developed a Data maintenace system and a Report generator for the companies transmission lines data</task>
+         </tasks>
+         <technologies>
+            <technology>VB.NET</technology>
+            <technology>XML</technology>
+            <technology>Oracle</technology>
+            <technology>PL/SQL</technology>
+            <technology>Stored Procedures</technology>
+            <technology>MS Access</technology>
+            <technology>TOAD</technology>
+         </technologies>
+         <url>http://www.nationalgridus.com/</url>
+      </experience>
+      <experience id="ISS@UMB">
+         <organization>International Student Services, UMass Boston</organization>
+         <location>Boston, MA</location>
+         <roles>
+            <role>
+               <title>Graduate Assistant</title>
+               <dateBegin>January 2000</dateBegin>
+               <dateEnd>May 2003</dateEnd>
+            </role>
+         </roles>
+         <tasks>
+            <task>Design, Develop and maintain the International Student Services website</task>
+            <task>Develop a Database for International Students</task>
+            <task>Report Generation by extracting data from Mainframes</task>
+         </tasks>
+         <technologies>
+            <technology>Perl</technology>
+            <technology>MS Access</technology>
+            <technology>MS Excel</technology>
+            <technology>HTML 4.0</technology>
+            <technology>JavaScript</technology>
+            <technology>Dreamweaver</technology>
+            <technology>QWS</technology>
+         </technologies>
+         <url>http://www.iss.umb.edu</url>
+      </experience>
+      <experience id="UAC@UMB">
+         <organization>University Advising Center, UMass Boston</organization>
+         <location>Boston, MA</location>
+         <roles>
+            <role>
+               <title>Information Systems Coordinator</title>
+               <dateBegin>May 2002</dateBegin>
+               <dateEnd>December 2002</dateEnd>
+            </role>
+         </roles>
+         <tasks>
+            <task>Technology support on all phases of New Student Orientation</task>
+            <task>Design, Develop and maintain the Advising center website</task>
+            <task>Hardware and Software Support for the Advising Center</task>
+            <task>Report Generation by extracting data from Mainframes</task>
+         </tasks>
+         <technologies>
+            <technology>Perl</technology>
+            <technology>MS Access</technology>
+            <technology>MS Excel</technology>
+            <technology>Foxpro</technology>
+            <technology>HTML 4.0</technology>
+            <technology>JavaScript</technology>
+            <technology>Dreamweaver</technology>
+            <technology>QWS</technology>
+         </technologies>
+         <url>http://www.uac.umb.edu</url>
+      </experience>
+      <experience id="BIO@UMB">
+         <organization>Biology Department, UMass Boston</organization>
+         <location>Boston, MA</location>
+         <roles>
+            <role>
+               <title>Web Developer</title>
+               <dateBegin>May 2002</dateBegin>
+               <dateEnd>September 2002</dateEnd>
+            </role>
+         </roles>
+         <tasks>
+            <task>Developed a database backed website for a laboratory class</task>
+            <task>Performed site's MySQL database design and creation, UI design, and Perl scripting, including login system, personalized content delivery, back-office database administration tools</task>
+         </tasks>
+         <technologies>
+            <technology>PERL</technology>
+            <technology>MySQL</technology>
+            <technology>HTML 4.0</technology>
+            <technology>JavaScript</technology>
+            <technology>PHP</technology>
+            <technology>phpMyAdmin</technology>
+         </technologies>
+         <url>http://www.bio.umb.edu/</url>
+      </experience>
+      <experience id="PROGRESS">
+         <organization>Progress Software Corporation</organization>
+         <location>Bedford, MA</location>
+         <roles>
+            <role>
+               <title>Summer Intern</title>
+               <dateBegin>June 2001</dateBegin>
+               <dateEnd>September 2001</dateEnd>
+            </role>
+         </roles>
+         <tasks>
+            <task>Automated creation of a database on Progress Software users, by extracting data from Microsoft Outlook using Perl.</task>
+            <task>Developed a web Application on the Progress Software users</task>
+            <task>Web and XML development, shell scripting, Perl scripting, setting up a Linux server.</task>
+         </tasks>
+         <technologies>
+            <technology>PERL</technology>
+            <technology>MS Access</technology>
+            <technology>Progress Database</technology>
+            <technology>MS Outlook</technology>
+            <technology>JavaScript</technology>
+            <technology>HTML 4.0</technology>
+            <technology>XML</technology>
+            <technology>Linux Administration</technology>         
+         </technologies>
+         <url>http://www.possenet.org</url>
+      </experience>
+      <experience id="CS@UMB">
+         <organization>Computer Science Department, UMass Boston</organization>
+         <location>Boston, MA</location>
+         <roles>
+            <role>
+               <title>Lead Unix Operator</title>
+               <dateBegin>January 2001</dateBegin>
+               <dateEnd>June 2001</dateEnd>
+            </role>
+         </roles>
+         <tasks>
+            <task>Schedule backups. Restore files. Create and administer user accounts and groups. Maintain password security.</task>
+            <task>Monitor system usage. Troubleshoot systems, network, printers and NFS.</task>
+            <task>Install and configure Solaris 8.</task>
+         </tasks>
+         <technologies>
+            <technology>Unix Administration</technology>
+            <technology>Perl</technology>
+            <technology>Shell Scripting</technology>
+         </technologies>
+         <url>http://www.cs.umb.edu</url>
+      </experience>
+      <experience id="UMB@UMB">
+         <organization>University of Massachusetts Boston</organization>
+         <location>Boston, MA</location>
+         <roles>
+            <role>
+               <title>Assistant Webmaster</title>
+               <dateBegin>December 2000</dateBegin>
+               <dateEnd>January 2001</dateEnd>
+            </role>
+         </roles>
+         <tasks>
+            <task>Maintain and upgrade the School website using CSS, JavaScript and HTML.</task>
+         </tasks>
+         <technologies>
+            <technology>HTML 4.0</technology>
+            <technology>Javascript</technology>
+            <technology>CSS</technology>
+            <technology>Dreamweaver</technology>
+         </technologies>
+         <url>http://www.umb.edu</url>
+      </experience>      
+   </experienceTree>
+   <educationTree>
+      <education>
+         <institution>University of Massachusetts Boston</institution>
+         <location>Boston, MA</location>
+         <achievement>M.S. in Computer Science</achievement>
+         <date>Decemeber 2003</date>
+         <additionalInfo>Courses: Object Oriented Programming, Object Oriented Software Design, Computer Communication Networks, Compilers, Computer Security, Database Management, Database Application Development, Operating Systems, Client-Server Programming, Computer Architecture, Advanced Data Structures and Algorithms, Java, C.</additionalInfo>
+      </education>
+      <education>
+         <institution>Shri R.K.N Engineering College</institution>
+         <location>Nagpur(Maharashtra), India</location>
+         <achievement>B.E. in Electrical Engineering</achievement>
+         <date>May 1997</date>
+         <additionalInfo>Project: Study Design of Power Sub-Stations.</additionalInfo>
+      </education>
+      <education>
+         <institution>Complete Solutions Business Inc.</institution>
+         <location>Hyderabad(A.P), India,</location>
+         <achievement>Diploma in Application Development on Mainframes</achievement>
+         <date>March 1998</date>
+         <additionalInfo>Courses: Programming in COBOL, DB2, and CICS.</additionalInfo>
+      </education>
+   </educationTree>
+</resume>

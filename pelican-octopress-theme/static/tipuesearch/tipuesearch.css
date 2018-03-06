@@ -1,0 +1,126 @@
+
+/*
+Tipue Search 4.0
+Copyright (c) 2014 Tipue
+Tipue Search is released under the MIT License
+http://www.tipue.com/search
+*/
+
+
+#tipue_search_input
+{
+	padding: 12px 12px 12px 40px;
+	width: 170px;
+	border: 1px solid #e2e2e2;
+	border-radius: 0;
+	-moz-appearance: none;
+	-webkit-appearance: none;
+        box-shadow: none; 
+	outline: 0;
+	margin: 0;
+	background: #fff url('img/search.png') no-repeat 15px 15px;
+        font-size: 15px; 
+}
+
+#tipue_search_content
+{
+    max-width: auto;
+	padding-top: 15px;
+	margin: 0;
+}
+#tipue_search_loading
+{
+     padding-top: 60px;     
+     background: #fff url('img/loader.gif') no-repeat left;
+}
+
+#tipue_search_warning
+{
+	margin: 7px 0;
+}
+#tipue_search_warning a
+{
+     color: #36c;
+     font-weight: 300;
+     text-decoration: none;
+}
+#tipue_search_results_count
+{
+}
+
+.tipue_search_content_title
+{
+/*    font-family: 'PT Serif', Georgia, 'Helvetica Neue', Arial, sans-serif;*/
+    font-size: 28px;
+    margin-top: 23px;
+}
+.tipue_search_content_title a
+{
+    color: inherit;
+}
+
+.tipue_search_content_url
+{
+     word-break: break-all;
+     word-break: break-word;
+     -webkit-hyphens: auto;
+     -moz-hyphens: auto;
+     hyphens: auto;
+}
+.tipue_search_content_text
+{
+    /*font-family: 'PT Sans', 'Helvetica Neue', Arial, sans-serif;*/
+    font-size: 15px;
+    color: rgb(170, 170, 170);
+     word-break: break-all;
+     word-break: break-word;
+     -webkit-hyphens: auto;
+     -moz-hyphens: auto;
+     hyphens: auto;
+     margin-top: 3px;
+}
+.h01
+{
+     font-weight: 400;
+}
+
+#tipue_search_foot
+{
+     margin: 51px 0 21px 0;
+}
+#tipue_search_foot_boxes
+{
+	padding: 0;
+	margin: 0;
+}
+#tipue_search_foot_boxes li
+{
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	display: inline;
+}
+#tipue_search_foot_boxes li a
+{
+	padding: 9px 15px 10px 15px;
+     background-color: #f1f1f1;
+     border: 1px solid #dcdcdc;
+     border-radius: 1px;
+	margin-right: 7px;
+	text-decoration: none;
+	text-align: center;
+}
+#tipue_search_foot_boxes li.current
+{
+	padding: 9px 15px 10px 15px;
+     background: #fff;
+     border: 1px solid #dcdcdc;
+     border-radius: 1px;
+	margin-right: 7px;
+	text-align: center;
+}
+#tipue_search_foot_boxes li a:hover
+{
+	border: 1px solid #ccc;
+	background-color: #f3f3f3;
+}

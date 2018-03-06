@@ -1,0 +1,106 @@
+SRINIVAS NYAYAPATI
+57 Beach Point Place, #162
+Dorchester, MA 02125
+Phone: 617 515 2546
+Email: srao@cs.umb.edu
+Web: http://www.cs.umb.edu/~srao
+SOFTWARE ENGINEER with three years of experience in the development of database-driven web and windows applications.  Skilled across many aspects of software engineering with a strong attention to detail, desire for professional results, and a demonstrated ability to come up to speed quickly in new diverse environments. 
+
+SKILLS* Java, C, C++, Perl, VB .NET, ASP.NET, PL/SQL
+* JSP, JDBC, Tomcat, Ant, JAXB, Struts
+* XML, XSLT, XPATH, JAXP, DOM, XML Parsers
+* Oracle, MySql, Progress, Interbase, DB/2, MS Access 
+* CSS, HTML, Perl, JavaScript, Apache, IIS
+* Unix (Solaris, Linux incl. CVS, shell scripting, and cron), Windows, MacOs
+* Unix/Linux System Administration, Desktop Support
+* Dreamweaver, FrontPage, Adobe Photoshop, MS Office suite
+
+TECHNICAL EXPERIENCE
+Software Engineer
+National Grid, Northborough, MA, 6/2003 
+* Designed and Developed a Database backed application to maintain technical data for the company’s transformers.
+* Successfully designed and implemented the database for the application.
+* Designed and developed a data maintenance system and a report generator for the organization’s transmission lines data.
+* Technologies & Tools: VB.NET, XML, Oracle, PL/SQL, Stored Procedures, MS Access.
+* http://www.nationalgridus.com/
+  
+Project Lead
+Healey Library, UMass Boston, 9/2002 – 9/2003
+* Led a team of five Software Engineers to develop and deploy a Multi-Tier web portal.
+* Performed CVS administration, release management. 
+* Performed MySQL database design and creation and developed back-end for database interaction.
+* Technologies & Tools: Oracle, MySQL, JDBC, EJB, XML, Servlets, JSP, Struts 1.1 Framework, HTML, Dreamweaver, Tomcat, Ant.
+* http://www.lib.umb.edu/ 
+
+Web Developer
+CatchItFree.com, Andover, 5/2003 – 6/2003
+* Developed a database backed website using ASP and MySQL also capable of sending personalized emails using ASP CDONTS.
+* Page: 1
+[0]Conceptualized and designed the database for the website (MySQL).
+* Page: 1
+[0]Administered and maintained and updated the portal
+* Technologies & Tools: ASP, MySQL, HTML, JavaScript
+* http://www.CatchItFree.com
+
+Graduate Assistant
+International Student Services, UMass Boston, 1/2000 – 5/2003
+* Designed, Developed and maintained the International Student Services website.
+* Developed a Database for International Students
+* Performed Report Generation by extracting data from Mainframes using MS Excel.
+* Technologies & Tools: Perl, MS Access, MS Excel, HTML, JavaScript, Dreamweaver, QWS.
+* http://www.iss.umb.edu
+
+Information Systems Coordinator
+University Advising Center, UMass Boston, 5/2002 – 10/2002
+* Technology support on all phases of New Student Orientation.
+* Design, Develop and maintain the Advising center website and the Boston Globe Taylor Scholarship Program website.
+* Hardware and Software Support for the Advising Center.
+* Report Generation by extracting data from Mainframes.
+* Technologies & Tools: Perl, MS Access, MS Excel, FoxPro, HTML, JavaScript, Dreamweaver, QWS.
+* http://www.uac.umb.edu/, http://www.taylor.umb.edu/
+ 
+Web Developer
+Biology Department, UMass Boston, 5/2002 – 9/2002
+* Developed a database backed website for a laboratory class.
+* Performed site's MySQL database design and creation, UI design, and Perl scripting, including login system, personalized content delivery, database administration tools.
+* Technologies & Tools: PERL, MySQL, HTML, JavaScript, PHP, phpMyAdmin. 
+ 
+Summer Intern in Product Management
+Progress Software Corporation, Bedford, 6/2001 - 9/2001
+* Automated creation of a database on Progress Software users, by extracting data from Microsoft Outlook using Perl. 
+* Developed a web Application on the Progress Software users. 
+* Web and XML development, shell scripting, Perl scripting, setting up a Linux server.
+* Technologies & Tools: PERL, MS Access, Progress Database, MS Outlook, JavaScript,             HTML, XML, Linux Administration.
+* http://www.possenet.org 
+
+Graduate Assistant as Lead UNIX Operator
+UNIX Lab, Dept of Computer Science, UMass Boston, 1/2001 - 6/2001
+* Schedule backups. Restore files. Create and administer user accounts and groups. Maintain password security
+* Monitor system usage.  Troubleshoot systems, network, printers, NFS
+* Install and configure Solaris 8.
+* Technologies & Tools: UNIX Administration, Shell Scripting, PERL.
+* http://www.cs.umb.edu
+
+Assistant Webmaster
+University of Massachusetts Boston, 12/2000 - 1/2001
+* Maintain and upgrade the School website using CSS, JavaScript and HTML.
+* Technologies & Tools: HTML, CSS, JavaScript.
+* http://www.umb.edu
+
+EDUCATIONUniversity of Massachusetts Boston, Boston, MA, 1/2000 – 12/2003
+* Master of Science in Computer Science (GPA 3.2) 
+* Courses: Object Oriented Programming, Object Oriented Software Design, Computer Communication Networks, Compilers, Computer Security, Database Management, Database Application Development, Operating Systems, Client-Server Programming, Computer Architecture, Advanced Data Structures & Algorithms, Programming in Java, Programming in C.
+
+Nagpur University, Nagpur, India, 8/1993 - 5/1997
+* BS in Electrical Engineering
+* Project: Study Design of Power Sub-Stations.
+
+Complete Solutions Business Inc., Hyderabad, India, 12/1997 - 3/1998
+* Diploma in Application Development on Mainframes
+* Courses: Programming in COBOL, DB2, and CICS. 
+
+ACADEMIC PROJECTS* Developed a Web Portal for the UMass Boston Healey Library.
+* Developed a package in C++ to calculate database transaction response time.
+* Developed a Framework for a game of marbles in Java. 
+* Developed a java compiler in java
+* Developed a multi-threaded web server in Java.
