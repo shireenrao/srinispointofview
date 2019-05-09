@@ -1,9 +1,9 @@
-Title: How to setup kubernetes clusters on EC2 to run the Dask NYC Taxi Demo
+Title: How to setup kubernetes cluster on EC2 to run the Dask NYC Taxi Demo
 Date: 2019-05-08 11:00
 Author: srini
 Category: software
 Tags: python, ec2, aws, linux, ubuntu
-Slug: how-to-setup-kubernetes-clusters-on-ec2-to-run-the-dask-nyc-taxi-demo
+Slug: how-to-setup-kubernetes-cluster-on-ec2-to-run-the-dask-nyc-taxi-demo
 
 I heard about Dask at my local Python Meetup last month. After reading about it, I came across
 Matthew Rocklin's <a href="https://www.youtube.com/watch?v=RA_2qdipVng&t=457s">Pycon 2017 talk on Dask</a>
