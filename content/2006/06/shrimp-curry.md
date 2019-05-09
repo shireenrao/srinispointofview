@@ -22,7 +22,7 @@ write down the recipe. So today when I felt like making the dish again,
 I couldnt find the recipe. Finally I came up with this recipe which was
 not what I wanted but came out pretty good anyway...
 
-[![Shrimp Curry]({filename}/wp-content/uploads/2006/06/Shrimp-Curry.jpg "Shrimp Curry")]({filename}/wp-content/uploads/2009/11/Shrimp-Curry.jpg)  
+[![Shrimp Curry]({static}/wp-content/uploads/2006/06/Shrimp-Curry.jpg "Shrimp Curry")]({static}/wp-content/uploads/2009/11/Shrimp-Curry.jpg)  
 
 
 Ingredients:

@@ -10,7 +10,7 @@ it turned out really tasty. I think any dish which has capsicum in it
 really brings out so many nice flavours in the dish. I will try to make
 chicken with capsicum soon..  
 
-[![Alloo Simla Mirch]({filename}/wp-content/uploads/2009/11/Alloo-Simla-Mirch.jpg "Alloo Simla Mirch")]({filename}/wp-content/uploads/2009/11/Alloo-Simla-Mirch.jpg) 
+[![Alloo Simla Mirch]({static}/wp-content/uploads/2009/11/Alloo-Simla-Mirch.jpg "Alloo Simla Mirch")]({static}/wp-content/uploads/2009/11/Alloo-Simla-Mirch.jpg) 
 
 
 **Ingredients:**

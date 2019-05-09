@@ -9,7 +9,7 @@ This recipe is a variation on the Malabar mutton curry. I am using
 chicken thighs instead of mutton or lamb. You can replace the chicken
 with lamb or goat. It's quick and easy to do.
 
-[![IMG_3932]({filename}/wp-content/uploads/2013/07/IMG_3932.jpg)]({filename}/wp-content/uploads/2013/07/IMG_3932.jpg)
+[![IMG_3932]({static}/wp-content/uploads/2013/07/IMG_3932.jpg)]({static}/wp-content/uploads/2013/07/IMG_3932.jpg)
 
 **Ingredients**  
 Chicken thighs - 2 pounds  
@@ -60,19 +60,19 @@ Here are some more pics...
 
 While roasting the spices for the paste -  
 
-[![IMG_2797]({filename}/wp-content/uploads/2013/07/IMG_2797.jpg)]({filename}/wp-content/uploads/2013/07/IMG_2797.jpg)
+[![IMG_2797]({static}/wp-content/uploads/2013/07/IMG_2797.jpg)]({static}/wp-content/uploads/2013/07/IMG_2797.jpg)
 
 Spice Paste -  
 
-[![IMG_2799]({filename}/wp-content/uploads/2013/07/IMG_2799.jpg)]({filename}/wp-content/uploads/2013/07/IMG_2799.jpg)
+[![IMG_2799]({static}/wp-content/uploads/2013/07/IMG_2799.jpg)]({static}/wp-content/uploads/2013/07/IMG_2799.jpg)
 
 Cooking to dry out the sauce and get it thick -  
 
-[![IMG_2803]({filename}/wp-content/uploads/2013/07/IMG_2803.jpg)]({filename}/wp-content/uploads/2013/07/IMG_2803.jpg)
+[![IMG_2803]({static}/wp-content/uploads/2013/07/IMG_2803.jpg)]({static}/wp-content/uploads/2013/07/IMG_2803.jpg)
 
 The finished dish -  
 
-[![IMG_3929]({filename}/wp-content/uploads/2013/07/IMG_3929.jpg)]({filename}/wp-content/uploads/2013/07/IMG_3929.jpg)
+[![IMG_3929]({static}/wp-content/uploads/2013/07/IMG_3929.jpg)]({static}/wp-content/uploads/2013/07/IMG_3929.jpg)
 
 Checkout this quick video of the recipe:
 

@@ -9,7 +9,7 @@ Sambar is part of any major meal at
 home. We have it plain rice, dosa's, Idli's or wada's. I got this recipe
 from my mom.  
 
-[![Sambar]({filename}/wp-content/uploads/2006/06/Sambar.jpg "Sambar"){: style="margin: 0 auto"}]({filename}/wp-content/uploads/2009/11/Sambar.jpg)
+[![Sambar]({static}/wp-content/uploads/2006/06/Sambar.jpg "Sambar"){: style="margin: 0 auto"}]({static}/wp-content/uploads/2009/11/Sambar.jpg)
 
 Ingredients:  
 

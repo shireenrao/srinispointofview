@@ -11,7 +11,7 @@ having mushrooms in it. One reason I tried out this dish was to impress
 my would be wife as it is one of here favourite dishes! It came out
 really well! I suggest you eat this with warm chapatis.
 
-[![Methi Mattar Mushroom Malai]({filename}/wp-content/uploads/2006/07/Methi-Mattar-Mushroom-Malai.jpg "Methi Mattar Mushroom Malai")]({filename}/wp-content/uploads/2009/11/Methi-Mattar-Mushroom-Malai.jpg)  
+[![Methi Mattar Mushroom Malai]({static}/wp-content/uploads/2006/07/Methi-Mattar-Mushroom-Malai.jpg "Methi Mattar Mushroom Malai")]({static}/wp-content/uploads/2009/11/Methi-Mattar-Mushroom-Malai.jpg)  
 
 Ingredients:  
 

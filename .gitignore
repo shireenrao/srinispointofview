@@ -3,6 +3,7 @@ cache/
 output/
 venv/
 pelican-themes/
+.vscode/
 .DS_Store
 *.pyc
 srv.pid

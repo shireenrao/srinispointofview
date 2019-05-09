@@ -5,7 +5,7 @@ Category: recipes
 Tags: food
 Slug: bread-pakora
 
-[![20130302-142637.jpg]({filename}/wp-content/uploads/2013/03/20130302-142637.jpg)]({filename}/wp-content/uploads/2013/03/20130302-142637.jpg)
+[![20130302-142637.jpg]({static}/wp-content/uploads/2013/03/20130302-142637.jpg)]({static}/wp-content/uploads/2013/03/20130302-142637.jpg)
 
 This is how I remember eating Bread Pakora's in Amar Colony, New Delhi.
 So the other day when I suggested to Priya that we should try making

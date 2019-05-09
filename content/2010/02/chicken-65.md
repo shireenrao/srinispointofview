@@ -61,13 +61,13 @@ Cook till yogurt is dried up
 
 Here is what it looked like after the pakoda's were made -
 
-[![Chicken Pakoda]({filename}/wp-content/uploads/2010/02/IMG_6959.jpg "Chicken Pakoda")]({filename}/wp-content/uploads/2010/02/IMG_6959.jpg)
+[![Chicken Pakoda]({static}/wp-content/uploads/2010/02/IMG_6959.jpg "Chicken Pakoda")]({static}/wp-content/uploads/2010/02/IMG_6959.jpg)
 
 
 Here is the finished product -
 
 
-[![Chicken 65]({filename}/wp-content/uploads/2010/02/IMG_6960.jpg "Chicken 65")]({filename}/wp-content/uploads/2010/02/IMG_6960.jpg)
+[![Chicken 65]({static}/wp-content/uploads/2010/02/IMG_6960.jpg "Chicken 65")]({static}/wp-content/uploads/2010/02/IMG_6960.jpg)
 
 
 The reason this does not look red in color was because I did not use any

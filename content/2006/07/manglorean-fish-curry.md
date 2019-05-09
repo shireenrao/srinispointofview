@@ -9,7 +9,7 @@ I got this yummy recipe from my
 cousin.. The same cousin who gave me the recipe for the turkey keema..
 Its a very quick and easy dish to make.
 
-[![Manglorean Fish Curry]({filename}/wp-content/uploads/2006/07/Manglorean-Fish-Curry.jpg "Manglorean Fish Curry")]({filename}/wp-content/uploads/2009/11/Manglorean-Fish-Curry.jpg)  
+[![Manglorean Fish Curry]({static}/wp-content/uploads/2006/07/Manglorean-Fish-Curry.jpg "Manglorean Fish Curry")]({static}/wp-content/uploads/2009/11/Manglorean-Fish-Curry.jpg)  
 
 Ingredients:
 

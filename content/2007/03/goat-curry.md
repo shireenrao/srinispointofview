@@ -6,7 +6,7 @@ Tags: food, goat, mutton
 Slug: goat-curry
 
 
-[![Goat Curry]({filename}/wp-content/uploads/2007/03/Goat-Curry1.jpg "Goat Curry")]({filename}/wp-content/uploads/2009/11/Goat-Curry1.jpg)
+[![Goat Curry]({static}/wp-content/uploads/2007/03/Goat-Curry1.jpg "Goat Curry")]({static}/wp-content/uploads/2009/11/Goat-Curry1.jpg)
 
 
 I think this has been my best attempt

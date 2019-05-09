@@ -23,7 +23,7 @@ File->Import... did not work either. I couldn't even select the
 vmwarevm files as shown in the image below -  
 
 
-[![Screen Shot 2013-09-03 at 07.56.00]({filename}/wp-content/uploads/2013/09/Screen-Shot-2013-09-03-at-07.56.00.png)]({filename}/wp-content/uploads/2013/09/Screen-Shot-2013-09-03-at-07.56.00.png)  
+[![Screen Shot 2013-09-03 at 07.56.00]({static}/wp-content/uploads/2013/09/Screen-Shot-2013-09-03-at-07.56.00.png)]({static}/wp-content/uploads/2013/09/Screen-Shot-2013-09-03-at-07.56.00.png)  
 
 
 I thought I would loose the vm's and would have to re-create these from

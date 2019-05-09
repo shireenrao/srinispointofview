@@ -14,11 +14,11 @@ On Windows XP open msconfig and go to the
 BOOT.INI tab and check on the /SOS checkbox. The next time you bootup,
 it will show what drivers are being loaded.
 
-[![msconfig]({filename}/wp-content/uploads/2008/10/msconfig-300x198.png "msconfig")]({filename}/wp-content/uploads/2009/11/msconfig.png)  
+[![msconfig]({static}/wp-content/uploads/2008/10/msconfig-300x198.png "msconfig")]({static}/wp-content/uploads/2009/11/msconfig.png)  
 
 On Vista go to the Boot tab and check on the OS bootinformation check
 box to do the same.  
 
-[![vistaconfig]({filename}/wp-content/uploads/2008/10/vistaconfig-300x197.png "vistaconfig")]({filename}/wp-content/uploads/2009/11/vistaconfig.png)
+[![vistaconfig]({static}/wp-content/uploads/2008/10/vistaconfig-300x197.png "vistaconfig")]({static}/wp-content/uploads/2009/11/vistaconfig.png)
 
 

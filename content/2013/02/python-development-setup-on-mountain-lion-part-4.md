@@ -85,14 +85,14 @@ are working on. You should see a button on the home screen of Github
 which says "New repository" -  
 
 
-[![Screen Shot 2013-02-18 at 8.56.51 AM]({filename}/wp-content/uploads/2013/02/Screen-Shot-2013-02-18-at-8.56.51-AM.png)]({filename}/wp-content/uploads/2013/02/Screen-Shot-2013-02-18-at-8.56.51-AM.png)  
+[![Screen Shot 2013-02-18 at 8.56.51 AM]({static}/wp-content/uploads/2013/02/Screen-Shot-2013-02-18-at-8.56.51-AM.png)]({static}/wp-content/uploads/2013/02/Screen-Shot-2013-02-18-at-8.56.51-AM.png)  
 
 
 Now fill out the repository name. The other fields are all optional.  
 
 
 [![Screen Shot 2013-02-18 at 9.03.43
-AM]({filename}/wp-content/uploads/2013/02/Screen-Shot-2013-02-18-at-9.03.43-AM.png)]({filename}/wp-content/uploads/2013/02/Screen-Shot-2013-02-18-at-9.03.43-AM.png)  
+AM]({static}/wp-content/uploads/2013/02/Screen-Shot-2013-02-18-at-9.03.43-AM.png)]({static}/wp-content/uploads/2013/02/Screen-Shot-2013-02-18-at-9.03.43-AM.png)  
 
 
 Click on the Create repository button to create your repository. Thats

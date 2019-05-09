@@ -11,7 +11,7 @@ came up with a plan. She would call us and tell us that her mom prepared
 fish too much because of the fishy taste but aunty prepares it in such a
 way that it just tastes awesome!!
 
-[![Fish Pakoda]({filename}/wp-content/uploads/2007/03/Fish-Pakoda.jpg "Fish Pakoda")]({filename}/wp-content/uploads/2009/11/Fish-Pakoda.jpg)  
+[![Fish Pakoda]({static}/wp-content/uploads/2007/03/Fish-Pakoda.jpg "Fish Pakoda")]({static}/wp-content/uploads/2009/11/Fish-Pakoda.jpg)  
 
 
 I decided to make this recipe for a get together and called up my

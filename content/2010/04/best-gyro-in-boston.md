@@ -23,4 +23,4 @@ and pork combination Gyro sandwich... Man!! I love it when places have
 secret menu items.. It makes the experiance even more fun!! I can't wait
 to go back and try the chicken and pork combination Gyro!!
 
-[![Gyro]({filename}/wp-content/uploads/2010/04/p_1600_1200_8B099230-3A71-443D-89E9-A098081BBCBA.jpeg)]({filename}/wp-content/uploads/2010/04/p_1600_1200_8B099230-3A71-443D-89E9-A098081BBCBA.jpeg)
+[![Gyro]({static}/wp-content/uploads/2010/04/p_1600_1200_8B099230-3A71-443D-89E9-A098081BBCBA.jpeg)]({static}/wp-content/uploads/2010/04/p_1600_1200_8B099230-3A71-443D-89E9-A098081BBCBA.jpeg)

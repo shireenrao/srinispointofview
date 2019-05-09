@@ -5,7 +5,7 @@ Category: recipes
 Tags: chicken
 Slug: yummy-chicken-adraki
 
-[![IMG_6307]({filename}/wp-content/uploads/2014/06/IMG_6307.jpg)]({filename}/wp-content/uploads/2014/06/IMG_6307.jpg)
+[![IMG_6307]({static}/wp-content/uploads/2014/06/IMG_6307.jpg)]({static}/wp-content/uploads/2014/06/IMG_6307.jpg)
 
 This dish came out really good!! Very tasty if I can say so myself. It
 is not very different from my previous effort which you can read
@@ -72,4 +72,4 @@ Method -
 
 Here is a nice close up -
 
-[![IMG_6312]({filename}/wp-content/uploads/2014/06/IMG_6312.jpg)]({filename}/wp-content/uploads/2014/06/IMG_6312.jpg)
+[![IMG_6312]({static}/wp-content/uploads/2014/06/IMG_6312.jpg)]({static}/wp-content/uploads/2014/06/IMG_6312.jpg)

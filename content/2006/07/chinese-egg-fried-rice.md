@@ -12,7 +12,7 @@ have gone out and tried out different restaurants around boston who
 claim to make good indo-chinese. I will soon be posting more
 recipes...
 
-[![Chinese Egg Fried Rice]({filename}/wp-content/uploads/2006/07/Chinese-Egg-Fried-Rice.jpg "Chinese Egg Fried Rice")]({filename}/wp-content/uploads/2009/11/Chinese-Egg-Fried-Rice.jpg)  
+[![Chinese Egg Fried Rice]({static}/wp-content/uploads/2006/07/Chinese-Egg-Fried-Rice.jpg "Chinese Egg Fried Rice")]({static}/wp-content/uploads/2009/11/Chinese-Egg-Fried-Rice.jpg)  
 
 Ingredients:
 

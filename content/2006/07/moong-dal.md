@@ -12,7 +12,7 @@ I made this dish in two ways,
 So I am writing both styles. Picture is of style 2, I forgot to take
 picture of style 1. ![doh](http://www.hogwartslive.com/images/emoticons/doh.gif)  
 
-[![Moong dal]({filename}/wp-content/uploads/2006/07/Moong-dal.jpg "Moong dal")]({filename}/wp-content/uploads/2009/11/Moong-dal.jpg)  
+[![Moong dal]({static}/wp-content/uploads/2006/07/Moong-dal.jpg "Moong dal")]({static}/wp-content/uploads/2009/11/Moong-dal.jpg)  
 
 Style 1 (Jeera chounk)  
 This one is the original method of cooking moong dal. In cooker, cook

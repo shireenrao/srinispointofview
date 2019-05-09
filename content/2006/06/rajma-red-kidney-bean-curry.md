@@ -5,7 +5,7 @@ Category: recipes
 Tags: food
 Slug: rajma-red-kidney-bean-curry
 
-[![rajma]({filename}/wp-content/uploads/2006/06/rajma.jpg "rajma")]({filename}/wp-content/uploads/2009/11/rajma.jpg)
+[![rajma]({static}/wp-content/uploads/2006/06/rajma.jpg "rajma")]({static}/wp-content/uploads/2009/11/rajma.jpg)
 
 I made one of my favorite north indian dish. This is actually my mom's
 receipe. when i was a kid i watched a movie Super Snooper (Terence Hill)

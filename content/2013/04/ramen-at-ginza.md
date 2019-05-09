@@ -17,7 +17,7 @@ Today I finally got a chance to go try it out.. I got the Clear Pork
 broth Ramen and here is how it looks..
 
 
-[![20130404-134934.jpg]({filename}/wp-content/uploads/2013/04/20130404-134934.jpg)]({filename}/wp-content/uploads/2013/04/20130404-134934.jpg)
+[![20130404-134934.jpg]({static}/wp-content/uploads/2013/04/20130404-134934.jpg)]({static}/wp-content/uploads/2013/04/20130404-134934.jpg)
 
 
 The broth tastes good and is very fulfilling. The Ramen noodles itself

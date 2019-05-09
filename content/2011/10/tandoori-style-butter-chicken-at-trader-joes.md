@@ -4,4 +4,4 @@ Author: srini
 Category: restaurants
 Slug: tandoori-style-butter-chicken-at-trader-joes
 
-[![20111019-000337.jpg]({filename}/wp-content/uploads/2011/10/20111019-000337.jpg)]({filename}/wp-content/uploads/2011/10/20111019-000337.jpg)
+[![20111019-000337.jpg]({static}/wp-content/uploads/2011/10/20111019-000337.jpg)]({static}/wp-content/uploads/2011/10/20111019-000337.jpg)

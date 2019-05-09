@@ -9,7 +9,7 @@ I made kasoori methi chicken long time ago and posted a picture saying I
 would post a recipe soon.. The day is finally here. Better late than
 never right?? :)
 
-[![IMG_3843]({filename}/wp-content/uploads/2013/06/IMG_3843.jpg)]({filename}/wp-content/uploads/2013/06/IMG_3843.jpg)
+[![IMG_3843]({static}/wp-content/uploads/2013/06/IMG_3843.jpg)]({static}/wp-content/uploads/2013/06/IMG_3843.jpg)
 
 This recipe is a slight twist from a different interesting recipe I came
 across. The slight twist is the addition of Kasoori Methi. In english it
@@ -76,12 +76,12 @@ with the remaining cilantro and serve this with hot chapati's or Naan.
 
 Hope you enjoy this Yummy Recipe! Here are some more pics of the dish..
 
-[![IMG_3833]({filename}/wp-content/uploads/2013/06/IMG_3833.jpg)]({filename}/wp-content/uploads/2013/06/IMG_3833.jpg)
+[![IMG_3833]({static}/wp-content/uploads/2013/06/IMG_3833.jpg)]({static}/wp-content/uploads/2013/06/IMG_3833.jpg)
 
-[![IMG_3839]({filename}/wp-content/uploads/2013/06/IMG_3839.jpg)]({filename}/wp-content/uploads/2013/06/IMG_3839.jpg)
+[![IMG_3839]({static}/wp-content/uploads/2013/06/IMG_3839.jpg)]({static}/wp-content/uploads/2013/06/IMG_3839.jpg)
 
-[![IMG_3840]({filename}/wp-content/uploads/2013/06/IMG_3840.jpg)]({filename}/wp-content/uploads/2013/06/IMG_3840.jpg)
+[![IMG_3840]({static}/wp-content/uploads/2013/06/IMG_3840.jpg)]({static}/wp-content/uploads/2013/06/IMG_3840.jpg)
 
-[![IMG_3842]({filename}/wp-content/uploads/2013/06/IMG_3842.jpg)]({filename}/wp-content/uploads/2013/06/IMG_3842.jpg)
+[![IMG_3842]({static}/wp-content/uploads/2013/06/IMG_3842.jpg)]({static}/wp-content/uploads/2013/06/IMG_3842.jpg)
 
 

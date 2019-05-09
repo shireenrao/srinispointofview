@@ -14,7 +14,7 @@ Output Device was set to Airplay as shown in xbmc's Audo Output section
 of the System Settings screen shot below -
 
 [![Screen Shot 2013-03-06 at 9.43.22
-PM]({filename}/wp-content/uploads/2013/03/Screen-Shot-2013-03-06-at-9.43.22-PM.png)]({filename}/wp-content/uploads/2013/03/Screen-Shot-2013-03-06-at-9.43.22-PM.png)
+PM]({static}/wp-content/uploads/2013/03/Screen-Shot-2013-03-06-at-9.43.22-PM.png)]({static}/wp-content/uploads/2013/03/Screen-Shot-2013-03-06-at-9.43.22-PM.png)
 
 I just changed it to "Built-in Output" and that fixed the issue. I was
 also hearing only from one side of my headphones. Seeing the release
@@ -23,6 +23,6 @@ fixed by changing the Speaker Configuration from 2.1 to 2.0. Here is a
 screenshot after my changes.
 
 [![Screen Shot 2013-03-06 at 9.23.43
-PM]({filename}/wp-content/uploads/2013/03/Screen-Shot-2013-03-06-at-9.23.43-PM.png)]({filename}/wp-content/uploads/2013/03/Screen-Shot-2013-03-06-at-9.23.43-PM.png)
+PM]({static}/wp-content/uploads/2013/03/Screen-Shot-2013-03-06-at-9.23.43-PM.png)]({static}/wp-content/uploads/2013/03/Screen-Shot-2013-03-06-at-9.23.43-PM.png)
 
 

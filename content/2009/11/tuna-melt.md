@@ -5,7 +5,7 @@ Category: recipes
 Tags: food
 Slug: tuna-melt
 
-[![Tune-Melt]({filename}/wp-content/uploads/2007/04/Tune-Melt.jpg "Tune-Melt")]({filename}/wp-content/uploads/2009/11/Tune-Melt.jpg)
+[![Tune-Melt]({static}/wp-content/uploads/2007/04/Tune-Melt.jpg "Tune-Melt")]({static}/wp-content/uploads/2009/11/Tune-Melt.jpg)
 
 
 My Brother-in-law Sumeet Diddee, made this fabulous tuna-melt which was

@@ -8,7 +8,7 @@ Slug: my-macs-list-of-open-with-applications-start-listing-the-apps-twice
 When I right click on a file on my mac, I started seeing multiple apps
 being listed in the "Open with..." menu.
 
-[![20130227-085554.jpg]({filename}/wp-content/uploads/2013/02/20130227-085554.jpg)]({filename}/wp-content/uploads/2013/02/20130227-085554.jpg)
+[![20130227-085554.jpg]({static}/wp-content/uploads/2013/02/20130227-085554.jpg)]({static}/wp-content/uploads/2013/02/20130227-085554.jpg)
 
 Typically this list of apps are the apps which can open the file. Seeing
 the same application listed multiple times in the "Open With..." list

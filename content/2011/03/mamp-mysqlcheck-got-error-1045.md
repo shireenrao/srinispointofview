@@ -9,7 +9,7 @@ I started seeing the following error every time I started MAMP. This
 began after I changed the root password for my MAMP installation on my
 MBP.
 
-[![Mamp Error Msg]({filename}/wp-content/uploads/2011/03/Screen-shot-2011-03-28-at-1.10.32-PM-300x151.png "MAMP Error msg")]({filename}/wp-content/uploads/2011/03/Screen-shot-2011-03-28-at-1.10.32-PM.png)
+[![Mamp Error Msg]({static}/wp-content/uploads/2011/03/Screen-shot-2011-03-28-at-1.10.32-PM-300x151.png "MAMP Error msg")]({static}/wp-content/uploads/2011/03/Screen-shot-2011-03-28-at-1.10.32-PM.png)
 
 
     ::::text  

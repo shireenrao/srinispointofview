@@ -13,13 +13,13 @@ in the texture of the bun. The grilled bun adds a certain crispness to
 the dish. Very fresh and tasty!
 
 
-[![20130423-131241.jpg]({filename}/wp-content/uploads/2013/04/20130423-131241.jpg)]({filename}/wp-content/uploads/2013/04/20130423-131241.jpg)
+[![20130423-131241.jpg]({static}/wp-content/uploads/2013/04/20130423-131241.jpg)]({static}/wp-content/uploads/2013/04/20130423-131241.jpg)
 
 
 The new dish I tried today was the Kimchee Bulgogi Panini..
 
 
-[![20130423-131416.jpg]({filename}/wp-content/uploads/2013/04/20130423-131416.jpg)]({filename}/wp-content/uploads/2013/04/20130423-131416.jpg)  
+[![20130423-131416.jpg]({static}/wp-content/uploads/2013/04/20130423-131416.jpg)]({static}/wp-content/uploads/2013/04/20130423-131416.jpg)  
 
 
 The kimchi gives it a nice flavor. Both sandwiches were very tasty and

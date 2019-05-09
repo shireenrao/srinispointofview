@@ -17,7 +17,7 @@ was Unique and a little over the top for my taste as I felt that the
 spices he was adding was too much in quantity. Here is my version of a
 South Indian Spicy Chicken Curry -
 
-[![South Indian Spicy Chicken Curry]({filename}/wp-content/uploads/2008/10/South-Indian-Spicy-Chicken-Curry.jpg "South Indian Spicy Chicken Curry")]({filename}/wp-content/uploads/2009/11/South-Indian-Spicy-Chicken-Curry.jpg)
+[![South Indian Spicy Chicken Curry]({static}/wp-content/uploads/2008/10/South-Indian-Spicy-Chicken-Curry.jpg "South Indian Spicy Chicken Curry")]({static}/wp-content/uploads/2009/11/South-Indian-Spicy-Chicken-Curry.jpg)
 
 Ingredients (in order of use):
 

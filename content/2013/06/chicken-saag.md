@@ -5,7 +5,7 @@ Category: recipes
 Tags: chicken, food, saag, spinach
 Slug: chicken-saag
 
-[![IMG\_3815]({filename}/wp-content/uploads/2013/06/IMG_3815.jpg)]({filename}/wp-content/uploads/2013/06/IMG_3815.jpg)
+[![IMG\_3815]({static}/wp-content/uploads/2013/06/IMG_3815.jpg)]({static}/wp-content/uploads/2013/06/IMG_3815.jpg)
 
 This dish came out soo tasty! It goes really well with both cooked white
 rice and chapatti's..

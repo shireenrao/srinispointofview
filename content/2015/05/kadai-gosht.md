@@ -5,7 +5,7 @@ Category: recipes
 Tags: mutton, goat
 Slug: kadai-gosht
 
-[![IMG_7245]({filename}/wp-content/uploads/2015/05/IMG_7245.jpg)]({filename}/wp-content/uploads/2015/05/IMG_7245.jpg)
+[![IMG_7245]({static}/wp-content/uploads/2015/05/IMG_7245.jpg)]({static}/wp-content/uploads/2015/05/IMG_7245.jpg)
 
 This dish is a very popular dish from North India. I have had this at restaurants and Dhaba's in and around New Delhi. So how is this different than all the different types of mutton I have made in the past. Well.. I did some research and found this recipe and tried it today. It came out really well!! I am really satisifed with the results and all I can say it's all in the execution. Here is the recipe -
 

@@ -11,7 +11,7 @@ am gonna go and eat this and will post on how it tastes.. Meanwhile this
 is how it came out!  
 
 
-[![Frittata]({filename}/wp-content/uploads/2006/07/Frittata.jpg "Frittata")]({filename}/wp-content/uploads/2009/11/Frittata.jpg)  
+[![Frittata]({static}/wp-content/uploads/2006/07/Frittata.jpg "Frittata")]({static}/wp-content/uploads/2009/11/Frittata.jpg)  
 
 Ingrediants:
 

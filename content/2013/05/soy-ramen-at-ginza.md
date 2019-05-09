@@ -12,8 +12,8 @@ tough choice. It is a tie between the miso and soy flavored Ramen!
 
 Here are some pics
 
-[![20130514-141937.jpg]({filename}/wp-content/uploads/2013/05/20130514-141937.jpg)]({filename}/wp-content/uploads/2013/05/20130514-141937.jpg)
+[![20130514-141937.jpg]({static}/wp-content/uploads/2013/05/20130514-141937.jpg)]({static}/wp-content/uploads/2013/05/20130514-141937.jpg)
 
-[![20130514-142126.jpg]({filename}/wp-content/uploads/2013/05/20130514-142126.jpg)]({filename}/wp-content/uploads/2013/05/20130514-142126.jpg)
+[![20130514-142126.jpg]({static}/wp-content/uploads/2013/05/20130514-142126.jpg)]({static}/wp-content/uploads/2013/05/20130514-142126.jpg)
 
 

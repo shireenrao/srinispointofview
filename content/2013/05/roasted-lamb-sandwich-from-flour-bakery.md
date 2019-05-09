@@ -10,7 +10,7 @@ sandwich's and indulge in their famous sticky buns!
 
 It was another beautiful day in Boston.. Bright, sunny and pleasant.
 
-[![20130501-131727.jpg]({filename}/wp-content/uploads/2013/05/20130501-131727.jpg)]({filename}/wp-content/uploads/2013/05/20130501-131727.jpg)
+[![20130501-131727.jpg]({static}/wp-content/uploads/2013/05/20130501-131727.jpg)]({static}/wp-content/uploads/2013/05/20130501-131727.jpg)
 
 When I got their I decided on their Roast Lamb sandwich with tomato
 chutney and goat cheese.. Sounds yum! For desert I went with their
@@ -22,23 +22,23 @@ beautiful wooden bench.. it was more like nicely varnished wooden
 pillars joined together to look like a bench. Flour does a nice job with
 their packaging for take out.
 
-[![20130501-132358.jpg]({filename}/wp-content/uploads/2013/05/20130501-132358.jpg)]({filename}/wp-content/uploads/2013/05/20130501-132358.jpg)
+[![20130501-132358.jpg]({static}/wp-content/uploads/2013/05/20130501-132358.jpg)]({static}/wp-content/uploads/2013/05/20130501-132358.jpg)
 
 Here is a view of their famous Sticky Buns... droool!!!
 
-[![20130501-132511.jpg]({filename}/wp-content/uploads/2013/05/20130501-132511.jpg)]({filename}/wp-content/uploads/2013/05/20130501-132511.jpg)
+[![20130501-132511.jpg]({static}/wp-content/uploads/2013/05/20130501-132511.jpg)]({static}/wp-content/uploads/2013/05/20130501-132511.jpg)
 
 This is another view of the buns taken indoors
 
-[![20130501-133258.jpg]({filename}/wp-content/uploads/2013/05/20130501-133258.jpg)]({filename}/wp-content/uploads/2013/05/20130501-133258.jpg)
+[![20130501-133258.jpg]({static}/wp-content/uploads/2013/05/20130501-133258.jpg)]({static}/wp-content/uploads/2013/05/20130501-133258.jpg)
 
 Finally the sandwich itself..
 
-[![20130501-132658.jpg]({filename}/wp-content/uploads/2013/05/20130501-132658.jpg)]({filename}/wp-content/uploads/2013/05/20130501-132658.jpg)
+[![20130501-132658.jpg]({static}/wp-content/uploads/2013/05/20130501-132658.jpg)]({static}/wp-content/uploads/2013/05/20130501-132658.jpg)
 
 and here is another angle..
 
-[![20130501-133236.jpg]({filename}/wp-content/uploads/2013/05/20130501-133236.jpg)]({filename}/wp-content/uploads/2013/05/20130501-133236.jpg)
+[![20130501-133236.jpg]({static}/wp-content/uploads/2013/05/20130501-133236.jpg)]({static}/wp-content/uploads/2013/05/20130501-133236.jpg)
 
 Sandwich does look tasty. Loved the bread. I would never have thought of
 ever trying the combination of roast lamb with tomato chutney and goat

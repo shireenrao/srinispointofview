@@ -5,7 +5,7 @@ Category: recipes
 Tags: food
 Slug: quick-fried-shrimp
 
-[![Quick-fried Shrimp]({filename}/wp-content/uploads/2007/02/Quick-fried-Shrimp.jpg "Quick-fried Shrimp")]({filename}/wp-content/uploads/2009/11/Quick-fried-Shrimp.jpg)  
+[![Quick-fried Shrimp]({static}/wp-content/uploads/2007/02/Quick-fried-Shrimp.jpg "Quick-fried Shrimp")]({static}/wp-content/uploads/2009/11/Quick-fried-Shrimp.jpg)  
 
 
 I saw this recipe in a book and found the recipe to be interesting...

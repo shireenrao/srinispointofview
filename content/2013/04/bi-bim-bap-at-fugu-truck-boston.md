@@ -19,7 +19,7 @@ course their sooo tasty pork buns!!
 
 Here is what their Bi Bim Bap looks like
 
-[![20130430-145331.jpg]({filename}/wp-content/uploads/2013/04/20130430-145331.jpg)]({filename}/wp-content/uploads/2013/04/20130430-145331.jpg)
+[![20130430-145331.jpg]({static}/wp-content/uploads/2013/04/20130430-145331.jpg)]({static}/wp-content/uploads/2013/04/20130430-145331.jpg)
 
 The week long wait for the Bi Bim Bap was totally worth it!! I loved the
 flavors of the rice bowl. The best way to eat this is to mix everything

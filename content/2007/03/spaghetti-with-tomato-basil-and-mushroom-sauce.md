@@ -5,7 +5,7 @@ Category: recipes
 Tags: food
 Slug: spaghetti-with-tomato-basil-and-mushroom-sauce
 
-[![Spaghetti with tomato, basil, and mushroom sauce]({filename}/wp-content/uploads/2007/03/Spaghetti-with-tomato-basil-and-mushroom-sauce.jpg "Spaghetti with tomato, basil, and mushroom sauce")]({filename}/wp-content/uploads/2009/11/Spaghetti-with-tomato-basil-and-mushroom-sauce.jpg)
+[![Spaghetti with tomato, basil, and mushroom sauce]({static}/wp-content/uploads/2007/03/Spaghetti-with-tomato-basil-and-mushroom-sauce.jpg "Spaghetti with tomato, basil, and mushroom sauce")]({static}/wp-content/uploads/2009/11/Spaghetti-with-tomato-basil-and-mushroom-sauce.jpg)
 
 I love to cook itallian food for my
 wife. Itallian cooking to me is very calming and very romantic and it

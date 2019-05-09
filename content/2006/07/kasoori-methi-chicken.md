@@ -7,7 +7,7 @@ Slug: kasoori-methi-chicken
 
 Here is another yummy dish...
 
-[![Kasoori Methi Chicken]({filename}/wp-content/uploads/2006/07/Kasoori-Methi-Chicken.jpg "Kasoori Methi Chicken")]({filename}/wp-content/uploads/2009/11/Kasoori-Methi-Chicken.jpg)  
+[![Kasoori Methi Chicken]({static}/wp-content/uploads/2006/07/Kasoori-Methi-Chicken.jpg "Kasoori Methi Chicken")]({static}/wp-content/uploads/2009/11/Kasoori-Methi-Chicken.jpg)  
 
 Finally wrote down this recipe.. You
 can read it [here]({filename}/2013/06/kasoori-meethi-chicken-finally.md).

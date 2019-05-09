@@ -13,8 +13,8 @@ which was quick to make!
 
 Here is my take on it.
 
-[![20120829-172227.jpg]({filename}/wp-content/uploads/2012/08/20120829-172227.jpg)]({filename}/wp-content/uploads/2012/08/20120829-172227.jpg)
+[![20120829-172227.jpg]({static}/wp-content/uploads/2012/08/20120829-172227.jpg)]({static}/wp-content/uploads/2012/08/20120829-172227.jpg)
 
-[![20120829-172250.jpg]({filename}/wp-content/uploads/2012/08/20120829-172250.jpg)]({filename}/wp-content/uploads/2012/08/20120829-172250.jpg)
+[![20120829-172250.jpg]({static}/wp-content/uploads/2012/08/20120829-172250.jpg)]({static}/wp-content/uploads/2012/08/20120829-172250.jpg)
 
 

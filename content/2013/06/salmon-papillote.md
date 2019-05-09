@@ -7,7 +7,7 @@ Slug: salmon-papillote
 
 This is the easiest dish to make and it is full proof and quick to make.
 
-[![20130624-110517.jpg]({filename}/wp-content/uploads/2013/06/20130624-110517.jpg)]({filename}/wp-content/uploads/2013/06/20130624-110517.jpg)
+[![20130624-110517.jpg]({static}/wp-content/uploads/2013/06/20130624-110517.jpg)]({static}/wp-content/uploads/2013/06/20130624-110517.jpg)
 
 Ingredients
 
@@ -30,6 +30,6 @@ Drizzle that on top of fish before serving! It's super tasty!!
 
 The picture below shows how the packaged foil looks like.
 
-[![20130624-110348.jpg]({filename}/wp-content/uploads/2013/06/20130624-110348.jpg)]({filename}/wp-content/uploads/2013/06/20130624-110348.jpg)
+[![20130624-110348.jpg]({static}/wp-content/uploads/2013/06/20130624-110348.jpg)]({static}/wp-content/uploads/2013/06/20130624-110348.jpg)
 
 

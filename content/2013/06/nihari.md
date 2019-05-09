@@ -12,7 +12,7 @@ is usually eaten early in the morning. Read
 [this](http://en.wikipedia.org/wiki/Nihari) wikipedia entry for more
 details on this dish.
 
-[![20130618-094238.jpg]({filename}/wp-content/uploads/2013/06/20130618-094238.jpg)]({filename}/wp-content/uploads/2013/06/20130618-094238.jpg)
+[![20130618-094238.jpg]({static}/wp-content/uploads/2013/06/20130618-094238.jpg)]({static}/wp-content/uploads/2013/06/20130618-094238.jpg)
 
 Here is the recipe -
 
@@ -66,7 +66,7 @@ allowfullscreen></iframe>
 
 
 
-[![20130618-142319.jpg]({filename}/wp-content/uploads/2013/06/20130618-142319.jpg)](/{filename}wp-content/uploads/2013/06/20130618-142319.jpg)
+[![20130618-142319.jpg]({static}/wp-content/uploads/2013/06/20130618-142319.jpg)](/{static}wp-content/uploads/2013/06/20130618-142319.jpg)
 
 Lower the heat and add about 10 cups of water. Cover up the vessel and
 forget about this dish for the next 3-4 hours. Well almost. Just check
@@ -88,7 +88,7 @@ should be ready.
 Add a garnish of julliened ginger, chopped cilantro and crispy fried
 onions. Serve it with Naan or chappati.
 
-[![20130618-141754.jpg]({filename}/wp-content/uploads/2013/06/20130618-141754.jpg)]({filename}/wp-content/uploads/2013/06/20130618-141754.jpg)
+[![20130618-141754.jpg]({static}/wp-content/uploads/2013/06/20130618-141754.jpg)]({static}/wp-content/uploads/2013/06/20130618-141754.jpg)
 
 
 

@@ -16,14 +16,14 @@ Kapoor's recipe. Check out his video demo
 
 Here is what it looks like right before I put it to dum.
 
-[![Chicken Biryani]({filename}/wp-content/uploads/2007/03/Chicken-Biryani.jpg "Chicken Biryani")]({filename}/wp-content/uploads/2009/11/Chicken-Biryani.jpg)  
+[![Chicken Biryani]({static}/wp-content/uploads/2007/03/Chicken-Biryani.jpg "Chicken Biryani")]({static}/wp-content/uploads/2009/11/Chicken-Biryani.jpg)  
 
 
 And here I tried my hand at plating the biryani.. I know I need to work
 on making a better presentation :)
 
 
-[![Chicken Biryani-2]({filename}/wp-content/uploads/2007/03/Chicken-Biryani-2.jpg "Chicken Biryani-2")]({filename}/wp-content/uploads/2009/11/Chicken-Biryani-2.jpg)
+[![Chicken Biryani-2]({static}/wp-content/uploads/2007/03/Chicken-Biryani-2.jpg "Chicken Biryani-2")]({static}/wp-content/uploads/2009/11/Chicken-Biryani-2.jpg)
 
 
 Recipe coming soon...

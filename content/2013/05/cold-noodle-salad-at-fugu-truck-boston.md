@@ -18,24 +18,24 @@ noodles were also cooked well.
 
 Here are some pictures -
 
-[![20130514-150112.jpg]({filename}/wp-content/uploads/2013/05/20130514-150112.jpg)]({filename}/wp-content/uploads/2013/05/20130514-150112.jpg)
+[![20130514-150112.jpg]({static}/wp-content/uploads/2013/05/20130514-150112.jpg)]({static}/wp-content/uploads/2013/05/20130514-150112.jpg)
 
-[![20130514-150343.jpg]({filename}/wp-content/uploads/2013/05/20130514-150343.jpg)]({filename}/wp-content/uploads/2013/05/20130514-150343.jpg)
+[![20130514-150343.jpg]({static}/wp-content/uploads/2013/05/20130514-150343.jpg)]({static}/wp-content/uploads/2013/05/20130514-150343.jpg)
 
 Hmmmm.. Where is my pork?? looks like somebody forgot to put pork in my
 order.. but the Guys on Fugu Truck are really nice about it and hook me
 up with some extra :) Thanks Guys!! Look at that pile!
 
-[![20130514-150453.jpg]({filename}/wp-content/uploads/2013/05/20130514-150453.jpg)]({filename}/wp-content/uploads/2013/05/20130514-150453.jpg)
+[![20130514-150453.jpg]({static}/wp-content/uploads/2013/05/20130514-150453.jpg)]({static}/wp-content/uploads/2013/05/20130514-150453.jpg)
 
 This is after mixing it all up with the extra hot chilli oil I asked for
 (It's soo tasty... You must!!)
 
-[![20130514-150505.jpg]({filename}/wp-content/uploads/2013/05/20130514-150505.jpg)]({filename}/wp-content/uploads/2013/05/20130514-150505.jpg)
+[![20130514-150505.jpg]({static}/wp-content/uploads/2013/05/20130514-150505.jpg)]({static}/wp-content/uploads/2013/05/20130514-150505.jpg)
 
 and don't worry, I did not forget the customary pork buns this time
 too..
 
-[![20130514-150524.jpg]({filename}/wp-content/uploads/2013/05/20130514-150524.jpg)]({filename}/wp-content/uploads/2013/05/20130514-150524.jpg)
+[![20130514-150524.jpg]({static}/wp-content/uploads/2013/05/20130514-150524.jpg)]({static}/wp-content/uploads/2013/05/20130514-150524.jpg)
 
 Thanks @fugutruck for another wonderful lunch!

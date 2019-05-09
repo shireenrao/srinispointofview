@@ -5,7 +5,7 @@ Category: recipes
 Tags: food
 Slug: egg-fried-rice
 
-[![20130224-225353.jpg]({filename}/wp-content/uploads/2013/02/20130224-225353.jpg)]({filename}/wp-content/uploads/2013/02/20130224-225353.jpg)  
+[![20130224-225353.jpg]({static}/wp-content/uploads/2013/02/20130224-225353.jpg)]({static}/wp-content/uploads/2013/02/20130224-225353.jpg)  
   
 I love Egg fried rice. The best place for me to eat this is at [The
 Best little

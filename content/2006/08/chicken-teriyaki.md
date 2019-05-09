@@ -10,7 +10,7 @@ dishes. It came out really well.. Next time I just have to make sure I
 make the sauce less thick.  
 
 
-[![Chicken Teriyaki]({filename}/wp-content/uploads/2006/08/Chicken-Teriyaki.jpg "Chicken Teriyaki")]({filename}/wp-content/uploads/2009/11/Chicken-Teriyaki.jpg)
+[![Chicken Teriyaki]({static}/wp-content/uploads/2006/08/Chicken-Teriyaki.jpg "Chicken Teriyaki")]({static}/wp-content/uploads/2009/11/Chicken-Teriyaki.jpg)
 
 
 8 bone-in, skin-on chicken thighs

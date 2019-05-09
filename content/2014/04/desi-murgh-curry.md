@@ -5,7 +5,7 @@ Category: recipes
 Tags: chicken
 Slug: desi-murgh-curry
 
-[![IMG_6055]({filename}/wp-content/uploads/2014/04/IMG_6055.jpg)]({filename}/wp-content/uploads/2014/04/IMG_6055.jpg)
+[![IMG_6055]({static}/wp-content/uploads/2014/04/IMG_6055.jpg)]({static}/wp-content/uploads/2014/04/IMG_6055.jpg)
 
 It has been ages since I have posted any recipes and I had to post this
 dish as it is something special. It's not very complicated and is very
@@ -53,6 +53,6 @@ into the curry
 
 Here are some more pics I took with my 50mm lens :)
 
-[![IMG_6059]({filename}/wp-content/uploads/2014/04/IMG_6059.jpg)]({filename}/wp-content/uploads/2014/04/IMG_6059.jpg)
+[![IMG_6059]({static}/wp-content/uploads/2014/04/IMG_6059.jpg)]({static}/wp-content/uploads/2014/04/IMG_6059.jpg)
 
-[![IMG_6057]({filename}/wp-content/uploads/2014/04/IMG_6057.jpg)]({filename}/wp-content/uploads/2014/04/IMG_6057.jpg)
+[![IMG_6057]({static}/wp-content/uploads/2014/04/IMG_6057.jpg)]({static}/wp-content/uploads/2014/04/IMG_6057.jpg)

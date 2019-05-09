@@ -19,13 +19,13 @@ chopped up Thai Chillies. For $3.75 it's a steal.
 
 Here are some pics
 
-[![20130516-145953.jpg]({filename}/wp-content/uploads/2013/05/20130516-145953.jpg)]({filename}/wp-content/uploads/2013/05/20130516-145953.jpg)
+[![20130516-145953.jpg]({static}/wp-content/uploads/2013/05/20130516-145953.jpg)]({static}/wp-content/uploads/2013/05/20130516-145953.jpg)
 
-[![20130516-150704.jpg]({filename}/wp-content/uploads/2013/05/20130516-150704.jpg)]({filename}/wp-content/uploads/2013/05/20130516-150704.jpg)
+[![20130516-150704.jpg]({static}/wp-content/uploads/2013/05/20130516-150704.jpg)]({static}/wp-content/uploads/2013/05/20130516-150704.jpg)
 
-[![20130516-150822.jpg]({filename}/wp-content/uploads/2013/05/20130516-150822.jpg)]({filename}/wp-content/uploads/2013/05/20130516-150822.jpg)
+[![20130516-150822.jpg]({static}/wp-content/uploads/2013/05/20130516-150822.jpg)]({static}/wp-content/uploads/2013/05/20130516-150822.jpg)
 
-[![20130516-150854.jpg]({filename}/wp-content/uploads/2013/05/20130516-150854.jpg)]({filename}/wp-content/uploads/2013/05/20130516-150854.jpg)
+[![20130516-150854.jpg]({static}/wp-content/uploads/2013/05/20130516-150854.jpg)]({static}/wp-content/uploads/2013/05/20130516-150854.jpg)
 
 The sandwich is good, but I think their pork chop sandwich, BBQ pork
 Sandwich and cold cuts sandwich are much much better than this.

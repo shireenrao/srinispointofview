@@ -10,7 +10,7 @@ love the flavour of onions with eggplant. The cilantro also enhances the
 taste and smell of the dish. This is something one should have with rice
 and goes well with [Sambar]({filename}/2006/06/sambar.md)
 
-[![Eggplant in Onions and spices]({filename}/wp-content/uploads/2006/06/Eggplant-in-Onions-and-spices.jpg "Eggplant in Onions and spices")]({filename}/wp-content/uploads/2009/11/Eggplant-in-Onions-and-spices.jpg)  
+[![Eggplant in Onions and spices]({static}/wp-content/uploads/2006/06/Eggplant-in-Onions-and-spices.jpg "Eggplant in Onions and spices")]({static}/wp-content/uploads/2009/11/Eggplant-in-Onions-and-spices.jpg)  
 
 
 Ingredients:

@@ -15,7 +15,7 @@ definitely not easy to make because you have to keep mixing the rice and
 adding the broth little by little, till it is cooked. It took me around
 30 minutes.. Here is the recipe from my itallian cookbook
 
-[![Risotto]({filename}/wp-content/uploads/2009/01/Risotto.jpg "Risotto")]({filename}/wp-content/uploads/2009/11/Risotto.jpg)
+[![Risotto]({static}/wp-content/uploads/2009/01/Risotto.jpg "Risotto")]({static}/wp-content/uploads/2009/11/Risotto.jpg)
 
 Ingredients
 

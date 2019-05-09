@@ -5,7 +5,7 @@ Category: recipes
 Tags: food
 Slug: baigan-ka-bharta
 
-[![Baigan ka bharta]({filename}/wp-content/uploads/2006/07/Baigan-ka-bharta.jpg "Baigan ka bharta")]({filename}/wp-content/uploads/2009/11/Baigan-ka-bharta.jpg)
+[![Baigan ka bharta]({static}/wp-content/uploads/2006/07/Baigan-ka-bharta.jpg "Baigan ka bharta")]({static}/wp-content/uploads/2009/11/Baigan-ka-bharta.jpg)
 
 Ingredients:
 

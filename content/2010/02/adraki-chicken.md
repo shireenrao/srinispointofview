@@ -13,7 +13,7 @@ result looks a little like my other curry but the taste is very
 different.
 
 
-[![Adraki Chicken]({filename}/wp-content/uploads/2010/02/IMG_6945.jpg "Adraki Chicken")]({filename}/wp-content/uploads/2010/02/IMG_6945.jpg)
+[![Adraki Chicken]({static}/wp-content/uploads/2010/02/IMG_6945.jpg "Adraki Chicken")]({static}/wp-content/uploads/2010/02/IMG_6945.jpg)
 
 My memories of adraki chicken are from Nagpur. We used to go to this
 restaurant called Sanjha Chulha in Sadar. They called it ginger chicken

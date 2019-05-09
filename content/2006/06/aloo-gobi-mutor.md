@@ -5,7 +5,7 @@ Category: recipes
 Tags: food
 Slug: aloo-gobi-mutor
 
-[![alogobi]({filename}/wp-content/uploads/2006/06/alogobi.jpg "alogobi")]({filename}/wp-content/uploads/2009/11/alogobi.jpg)
+[![alogobi]({static}/wp-content/uploads/2006/06/alogobi.jpg "alogobi")]({static}/wp-content/uploads/2009/11/alogobi.jpg)
 
 Ingredients
 

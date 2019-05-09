@@ -53,7 +53,7 @@ Mac OS X Installation disk, but rather the device that has mounted it;
 in this example the device is named "SuperDrive”). BE VERY CAREFUL HERE!
 
 [![Disk
-Utility]({filename}/wp-content/uploads/2013/06/Disk-Utility.jpg)]({filename}/wp-content/uploads/2013/06/Disk-Utility.jpg)
+Utility]({static}/wp-content/uploads/2013/06/Disk-Utility.jpg)]({static}/wp-content/uploads/2013/06/Disk-Utility.jpg)
 
 3\. From Disk Utility’s File menu, choose “New > Disk Image from
 [device]” from the File menu, set the image format to “DVD/CD master”
@@ -136,7 +136,7 @@ the Macintosh HD, but DO NOT YET CLICK ON INSTALL.
 7\. In the Utilities Menu to the right of the Mac OS X Installer Menu (at
 the top of the Snow Leopard installation screen), Launch Terminal;
 
-[![Terminal]({filename}/wp-content/uploads/2013/06/Terminal.png)]({filename}/wp-content/uploads/2013/06/Terminal.png)
+[![Terminal]({static}/wp-content/uploads/2013/06/Terminal.png)]({static}/wp-content/uploads/2013/06/Terminal.png)
 
 8\. Type the following command (including the quotation marks) in
 Terminal and then click RETURN/ENTER:  

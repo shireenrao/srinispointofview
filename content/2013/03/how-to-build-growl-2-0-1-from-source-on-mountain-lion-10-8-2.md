@@ -96,7 +96,7 @@ Open the Keychain Access.app, go to Keychain Access menu then go to
 'Certificate Assistant' and finally click on 'Create a Certificate...'.
 Fill out all details as shown in the screenshot below
 
-[![Screen Shot 2013-03-08 at 6.38.30 PM]({filename}/wp-content/uploads/2013/03/Screen-Shot-2013-03-08-at-6.38.30-PM.png)]({filename}/wp-content/uploads/2013/03/Screen-Shot-2013-03-08-at-6.38.30-PM.png)
+[![Screen Shot 2013-03-08 at 6.38.30 PM]({static}/wp-content/uploads/2013/03/Screen-Shot-2013-03-08-at-6.38.30-PM.png)]({static}/wp-content/uploads/2013/03/Screen-Shot-2013-03-08-at-6.38.30-PM.png)
 
 Here are the details -  
 Name: 3rd Party Mac Developer Application: The Growl Project, LLC  
@@ -108,7 +108,7 @@ Now click on create and click on continue button when it shows you the
 Done when you see the below screen.
 
 [![Screen Shot 2013-03-08 at 6.39.12
-PM]({filename}/wp-content/uploads/2013/03/Screen-Shot-2013-03-08-at-6.39.12-PM.png)]({filename}/wp-content/uploads/2013/03/Screen-Shot-2013-03-08-at-6.39.12-PM.png)
+PM]({static}/wp-content/uploads/2013/03/Screen-Shot-2013-03-08-at-6.39.12-PM.png)]({static}/wp-content/uploads/2013/03/Screen-Shot-2013-03-08-at-6.39.12-PM.png)
 
 Close the Keychain Access app and re-run the build command on the
 terminal window.  
@@ -118,7 +118,7 @@ The Growl Project, LLC' in your keychain". Looks promising... Click
 Always Allow.
 
 [![Screen Shot 2013-03-08 at 6.36.45
-PM]({filename}/wp-content/uploads/2013/03/Screen-Shot-2013-03-08-at-6.36.45-PM.png)]({filename}/wp-content/uploads/2013/03/Screen-Shot-2013-03-08-at-6.36.45-PM.png)
+PM]({static}/wp-content/uploads/2013/03/Screen-Shot-2013-03-08-at-6.36.45-PM.png)]({static}/wp-content/uploads/2013/03/Screen-Shot-2013-03-08-at-6.36.45-PM.png)
 
 but this time the build failed with two new errors
 
@@ -195,7 +195,7 @@ Developer Preview. Get it from
 [here](https://developer.apple.com/downloads/index.action).
 
 [![Screen Shot 2013-03-08 at 4.05.28
-PM]({filename}/wp-content/uploads/2013/03/Screen-Shot-2013-03-08-at-4.05.28-PM.png)]({filename}/wp-content/uploads/2013/03/Screen-Shot-2013-03-08-at-4.05.28-PM.png)
+PM]({static}/wp-content/uploads/2013/03/Screen-Shot-2013-03-08-at-4.05.28-PM.png)]({static}/wp-content/uploads/2013/03/Screen-Shot-2013-03-08-at-4.05.28-PM.png)
 
 Just copy PackageMaker to your Applications directory so it is available
 on the command line. Once installed, try the build again.
@@ -298,7 +298,7 @@ Configuration" and choose "Release". Click Ok to close the window. Here
 is a screenshot of what you will change -
 
 [![Screen Shot 2013-03-10 at 11.43.44
-PM]({filename}/wp-content/uploads/2013/03/Screen-Shot-2013-03-10-at-11.43.44-PM.png)]({filename}/wp-content/uploads/2013/03/Screen-Shot-2013-03-10-at-11.43.44-PM.png)
+PM]({static}/wp-content/uploads/2013/03/Screen-Shot-2013-03-10-at-11.43.44-PM.png)]({static}/wp-content/uploads/2013/03/Screen-Shot-2013-03-10-at-11.43.44-PM.png)
 
 Build by hitting ⌘B in Xcode. If you have your self signed certificate
 and have edited the two files as mentioned above, the build should
@@ -306,10 +306,10 @@ succeed. But, there is one slight problem... The version number in the
 app is incorrect. It shows up as 2.0b6 instead of 2.0.1.
 
 [![Screen Shot 2013-03-10 at 11.42.47
-PM]({filename}/wp-content/uploads/2013/03/Screen-Shot-2013-03-10-at-11.42.47-PM.png)]({filename}/wp-content/uploads/2013/03/Screen-Shot-2013-03-10-at-11.42.47-PM.png)
+PM]({static}/wp-content/uploads/2013/03/Screen-Shot-2013-03-10-at-11.42.47-PM.png)]({static}/wp-content/uploads/2013/03/Screen-Shot-2013-03-10-at-11.42.47-PM.png)
 
 [![Screen Shot 2013-03-11 at 12.01.52
-AM]({filename}/wp-content/uploads/2013/03/Screen-Shot-2013-03-11-at-12.01.52-AM.png)]({filename}/wp-content/uploads/2013/03/Screen-Shot-2013-03-11-at-12.01.52-AM.png)
+AM]({static}/wp-content/uploads/2013/03/Screen-Shot-2013-03-11-at-12.01.52-AM.png)]({static}/wp-content/uploads/2013/03/Screen-Shot-2013-03-11-at-12.01.52-AM.png)
 
 That's why the rake build method is recommended.
 

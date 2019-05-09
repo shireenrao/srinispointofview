@@ -46,7 +46,7 @@ on Windows and Linux too. Here are the step -
 
 
 [![Screen Shot 2013-04-05 at 2.36.03
-PM]({filename}/wp-content/uploads/2013/04/Screen-Shot-2013-04-05-at-2.36.03-PM.png)]({filename}/wp-content/uploads/2013/04/Screen-Shot-2013-04-05-at-2.36.03-PM.png)  
+PM]({static}/wp-content/uploads/2013/04/Screen-Shot-2013-04-05-at-2.36.03-PM.png)]({static}/wp-content/uploads/2013/04/Screen-Shot-2013-04-05-at-2.36.03-PM.png)  
 
 
 2. Drag and Drop the first file in the sequence in the Input files
@@ -54,7 +54,7 @@ window. The Add button doesnt work for M2TS files.
 
 
 [![Screen Shot 2013-04-05 at 2.39.01
-PM]({filename}/wp-content/uploads/2013/04/Screen-Shot-2013-04-05-at-2.39.01-PM.png)]({filename}/wp-content/uploads/2013/04/Screen-Shot-2013-04-05-at-2.39.01-PM.png)  
+PM]({static}/wp-content/uploads/2013/04/Screen-Shot-2013-04-05-at-2.39.01-PM.png)]({static}/wp-content/uploads/2013/04/Screen-Shot-2013-04-05-at-2.39.01-PM.png)  
 
 
 3. Now Select the rest of the files you want to join together, drag and
@@ -62,7 +62,7 @@ drop on the Join button at the top.
 
 
 [![Screen Shot 2013-04-05 at 2.41.46
-PM]({filename}/wp-content/uploads/2013/04/Screen-Shot-2013-04-05-at-2.41.46-PM.png)]({filename}/wp-content/uploads/2013/04/Screen-Shot-2013-04-05-at-2.41.46-PM.png)  
+PM]({static}/wp-content/uploads/2013/04/Screen-Shot-2013-04-05-at-2.41.46-PM.png)]({static}/wp-content/uploads/2013/04/Screen-Shot-2013-04-05-at-2.41.46-PM.png)  
 
 
 4. Make sure the Output is set to M2TS muxing and click on the Browse
@@ -71,7 +71,7 @@ Start Muxing to join all the .M2TS files.
 
 
 [![Screen Shot 2013-04-05 at 2.47.33
-PM]({filename}/wp-content/uploads/2013/04/Screen-Shot-2013-04-05-at-2.47.33-PM.png)]({filename}/wp-content/uploads/2013/04/Screen-Shot-2013-04-05-at-2.47.33-PM.png)  
+PM]({static}/wp-content/uploads/2013/04/Screen-Shot-2013-04-05-at-2.47.33-PM.png)]({static}/wp-content/uploads/2013/04/Screen-Shot-2013-04-05-at-2.47.33-PM.png)  
 
 
 You will get a status window showing progress. Click Ok when it
@@ -79,7 +79,7 @@ finishes to get back to tsMuxerGui
 
 
 [![Screen Shot 2013-04-05 at 2.48.51
-PM]({filename}/wp-content/uploads/2013/04/Screen-Shot-2013-04-05-at-2.48.51-PM.png)]({filename}/wp-content/uploads/2013/04/Screen-Shot-2013-04-05-at-2.48.51-PM.png)
+PM]({static}/wp-content/uploads/2013/04/Screen-Shot-2013-04-05-at-2.48.51-PM.png)]({static}/wp-content/uploads/2013/04/Screen-Shot-2013-04-05-at-2.48.51-PM.png)
 
 
 You should now have your joined .M2TS file.
@@ -99,7 +99,7 @@ tsMuxerGUI
 
 
 [![Screen Shot 2013-04-05 at 3.02.16
-PM]({filename}/wp-content/uploads/2013/04/Screen-Shot-2013-04-05-at-3.02.16-PM.png)]({filename}/wp-content/uploads/2013/04/Screen-Shot-2013-04-05-at-3.02.16-PM.png)  
+PM]({static}/wp-content/uploads/2013/04/Screen-Shot-2013-04-05-at-3.02.16-PM.png)]({static}/wp-content/uploads/2013/04/Screen-Shot-2013-04-05-at-3.02.16-PM.png)  
 
 
 2. Select Demux in the output section at the bottom and click on Start
@@ -113,7 +113,7 @@ add your .264 and .ac3 files.
 
 
 [![Screen Shot 2013-04-05 at 3.17.26
-PM]({filename}/wp-content/uploads/2013/04/Screen-Shot-2013-04-05-at-3.17.26-PM.png)]({filename}/wp-content/uploads/2013/04/Screen-Shot-2013-04-05-at-3.17.26-PM.png)  
+PM]({static}/wp-content/uploads/2013/04/Screen-Shot-2013-04-05-at-3.17.26-PM.png)]({static}/wp-content/uploads/2013/04/Screen-Shot-2013-04-05-at-3.17.26-PM.png)  
 
 
 5. Click on Start muxing at the bottom to create your MKV file. A
@@ -121,7 +121,7 @@ progress window comes up during the muxing process.
 
 
 [![Screen Shot 2013-04-05 at 3.19.11
-PM]({filename}/wp-content/uploads/2013/04/Screen-Shot-2013-04-05-at-3.19.11-PM.png)](i{filename}/wp-content/uploads/2013/04/Screen-Shot-2013-04-05-at-3.19.11-PM.png)
+PM]({static}/wp-content/uploads/2013/04/Screen-Shot-2013-04-05-at-3.19.11-PM.png)](i{static}/wp-content/uploads/2013/04/Screen-Shot-2013-04-05-at-3.19.11-PM.png)
 
 
 You now have an MKV file which works on XBMC. As tsMuxer and mkvmerge

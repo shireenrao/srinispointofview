@@ -11,7 +11,7 @@ healthier than using minced lamb or beef. I first got the idea of using
 turkey for this dish from my cousin, who like me is a foody. Some day we
 might see a cookbook published by her ;)
 
-[![Turkey Keema and Mattar]({filename}/wp-content/uploads/2006/06/Turkey-Keema-and-Mattar.jpg "Turkey Keema and Mattar")]({filename}/wp-content/uploads/2009/11/Turkey-Keema-and-Mattar.jpg)  
+[![Turkey Keema and Mattar]({static}/wp-content/uploads/2006/06/Turkey-Keema-and-Mattar.jpg "Turkey Keema and Mattar")]({static}/wp-content/uploads/2009/11/Turkey-Keema-and-Mattar.jpg)  
 
 
 Ingredients:

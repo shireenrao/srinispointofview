@@ -27,7 +27,7 @@ select the Interpreter - Python option. Click on the New button on that
 screen and fill out the interpreter name and select the path to python
 in your virtualenv (/Users/username/.virtualenvs/python273/bin/python)
 
-[![PyDev Python Settings]({filename}/wp-content/uploads/2012/08/Screen-Shot-2012-08-28-at-10.30.26-PM-300x237.png "Pydev Python settings")]({filename}/wp-content/uploads/2012/08/Screen-Shot-2012-08-28-at-10.30.26-PM.png)
+[![PyDev Python Settings]({static}/wp-content/uploads/2012/08/Screen-Shot-2012-08-28-at-10.30.26-PM-300x237.png "Pydev Python settings")]({static}/wp-content/uploads/2012/08/Screen-Shot-2012-08-28-at-10.30.26-PM.png)
 
 Click on OK. Now you will be greeted with a dialogue box of all modules
 eclipse found. Select all the modules you want to add to eclipses
@@ -35,7 +35,7 @@ pythonpath. I will just let the default be. just make sure you are only
 using paths which are in your virtualenv. Click OK. You should now see
 the following dialogue box
 
-[![Virtualenv Warning]({filename}/wp-content/uploads/2012/08/Screen-Shot-2012-08-28-at-10.40.18-PM-300x201.png "Virtualenv warning")]({filename}/wp-content/uploads/2012/08/Screen-Shot-2012-08-28-at-10.40.18-PM.png)
+[![Virtualenv Warning]({static}/wp-content/uploads/2012/08/Screen-Shot-2012-08-28-at-10.40.18-PM-300x201.png "Virtualenv warning")]({static}/wp-content/uploads/2012/08/Screen-Shot-2012-08-28-at-10.40.18-PM.png)
 
 Just click on Proceed anyways. Then click on OK on the preferences page.
  Now lets switch to pydev mode in eclipse and test our Install.

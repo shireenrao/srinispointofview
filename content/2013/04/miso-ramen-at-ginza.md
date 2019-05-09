@@ -12,13 +12,13 @@ today.  Me so like it ;)
 Here are a few pics I got
 
 
-[![20130409-125623.jpg]({filename}/wp-content/uploads/2013/04/20130409-125623.jpg)]({filename}/wp-content/uploads/2013/04/20130409-125623.jpg)
+[![20130409-125623.jpg]({static}/wp-content/uploads/2013/04/20130409-125623.jpg)]({static}/wp-content/uploads/2013/04/20130409-125623.jpg)
 
 
 Here is another one from the top..
 
 
-[![20130409-125807.jpg]({filename}/wp-content/uploads/2013/04/20130409-125807.jpg)]({filename}/wp-content/uploads/2013/04/20130409-125807.jpg)
+[![20130409-125807.jpg]({static}/wp-content/uploads/2013/04/20130409-125807.jpg)]({static}/wp-content/uploads/2013/04/20130409-125807.jpg)
 
 
 Honestly.. it was good! The broth has a nice miso flavor and very
