@@ -2,7 +2,7 @@ Title: How to setup kubernetes cluster on EC2 to run the Dask NYC Taxi Demo
 Date: 2019-05-08 11:00
 Author: srini
 Category: software
-Tags: python, ec2, aws, linux, ubuntu
+Tags: python, ec2, aws, linux, kubernetes
 Slug: how-to-setup-kubernetes-cluster-on-ec2-to-run-the-dask-nyc-taxi-demo
 
 I heard about Dask at my local Python Meetup last month. After reading about it, I came across
@@ -12,10 +12,10 @@ matter of a minute. You have to see the demo to really appreciate the power of D
 on his <a href="https://matthewrocklin.com/blog/work/2017/01/12/dask-dataframes">blog</a>, which goes over the
 same example.
 
-I thought the best way to get started with Dasak would be to re-create the demo. Reading on the blog, I saw that Matthew was using an eight node cluster on EC2 of m4.2xlarges (eight cores, 30GB RAM each). So I started to look into how to setup that eight node cluster. The main 
+I thought the best way to get started with Dask would be to re-create the demo. Reading on the blog, I saw that Matthew was using an eight node cluster on EC2 of m4.2xlarges (eight cores, 30GB RAM each). So I started to look into how to setup that eight node cluster. The main 
 <a href="http://docs.dask.org/en/latest/setup/cloud.html">documentation</a> now recommends deploying Dask with Kubernetes and Helm.
 
-This is where my in-experiance working with kubernetes became an obstacle. Luckily the documentation and watching a few youtube
+This is where my in-experience working with kubernetes became an obstacle. Luckily the documentation and watching a few youtube
 videos helped me get started. I am also doing all this from Windows 10 on wsl. 
 
 **Steps to get this demo working!**
@@ -96,9 +96,9 @@ Validate your cluster with the command below -
 [![validate_cluster]({static}/wp-content/uploads/2019/05/validate_cluster.png)]({static}/wp-content/uploads/2019/05/validate_cluster.png)
     
 
-You should proceed further only after you see that your cluster is ready. This was also one of the pain points for me as I wasnt sure why my clusters were not getting created properly. It turned out that it was due to AWS availability in the "us-east-1c" zone. I switched to "us-east-2c" and all was good.
+You should proceed further only after you see that your cluster is ready. This was also one of the pain points for me as I wasn't sure why my clusters were not getting created properly. It turned out that it was due to AWS availability in the "us-east-1c" zone. I switched to "us-east-2c" and all was good.
 
-9\. Install Helm. Helm is your package manager for Kubernetes. We will install a Dask cluster on the kubernetes 
+9\. Install Helm. Helm is your package manager for Kubernetes. We will install Dask on the kubernetes 
 cluster we created using helm. Installing helm is pretty straight forward. <a href="https://zero-to-jupyterhub.readthedocs.io/en/v0.4-doc/setup-helm.html">Zero-to-jupyterhub</a> docs do a great job.
 
 
@@ -125,14 +125,14 @@ Check if helm is installed correctly
 
 
 10\. Install Dask on your cluster. The <a href="http://docs.dask.org/en/latest/setup/kubernetes-helm.html">official docs</a>
-have a good explaination on how to install a basic cluster. Here is the command 
+have a good explanation on how to install a basic cluster. Here is the command 
 
 
     ::::bash
     $ helm install stable/dask
 
 
-The install gives a name to your deployment and you need to use this name if you want to upgrade or later delete your helm install. To validate if your install was successfull and your pods are running, use the following command
+The install gives a name to your deployment and you need to use this name if you want to upgrade or later delete your helm install. To validate if your install was successful and your pods are running, use the following command
 
 
     ::::bash
@@ -189,7 +189,7 @@ Now run the following command to get the external IP for your jupyter server and
     kubernetes                             ClusterIP      100.xx.x.1       <none>                 443/TCP                       1h
 
 
-Now copy paste the external IP into two browser windows. You should see the Jupyter hub login page and Scheduler page show up. If it doesnt show up, just be patient and wait a few minutes. Typically the Scheduler page comes up pretty fast and Jupyter hub page takes a while. Eventually you will be greeted by the login page. 
+Now copy paste the external IP into two browser windows. You should see the Jupyter hub login page and Scheduler page show up. If it doesn't show up, just be patient and wait a few minutes. Typically the Scheduler page comes up pretty fast and Jupyter hub page takes a while. Eventually you will be greeted by the login page. 
 
 [![login]({static}/wp-content/uploads/2019/05/login.png)]({static}/wp-content/uploads/2019/05/login.png)
 
