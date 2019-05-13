@@ -5,7 +5,7 @@ Category: software
 Tags: python, ec2, aws, linux, kubernetes
 Slug: how-to-setup-kubernetes-cluster-on-ec2-to-run-the-dask-nyc-taxi-demo
 
-I heard about Dask at my local Python Meetup last month. After reading about it, I came across
+I heard about <a href="https://dask.org/">Dask</a> at my local Python Meetup last month. After reading about it, I came across
 Matthew Rocklin's <a href="https://www.youtube.com/watch?v=RA_2qdipVng&t=457s">Pycon 2017 talk on Dask</a>
 and was blown away by his demo of crunching through around 20 gigs of csv data (60 gigs in memory) in 
 matter of a minute. You have to see the demo to really appreciate the power of Dask. He also wrote an article
@@ -16,19 +16,19 @@ I thought the best way to get started with Dask would be to re-create the demo. 
 <a href="http://docs.dask.org/en/latest/setup/cloud.html">documentation</a> now recommends deploying Dask with Kubernetes and Helm.
 
 This is where my in-experience working with kubernetes became an obstacle. Luckily the documentation and watching a few youtube
-videos helped me get started. I am also doing all this from Windows 10 on wsl. 
+videos helped me get started. I am also doing all this from Windows 10 on <a href="https://en.wikipedia.org/wiki/Windows_Subsystem_for_Linux">WSL</a>. 
 
 **Steps to get this demo working!**
 
 1\. Make sure your aws cli is setup. Read up install instructions <a href="https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-install.html">here</a> and configuring instructions <a href="https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-configure.html">here</a>. In my case aws cli was already setup as I use it for other work.
 
-2\. Install Docker. As of May of 2019, docker does not work natively on wsl. The way around it is to have Docker 
-be installed on windows and just install the docker client on wsl. Nick Janetakis has a great write up
-on his <a href="https://nickjanetakis.com/blog/setting-up-docker-for-windows-and-wsl-to-work-flawlessly">blog</a> and I got docker working from wsl in no time. 
+2\. Install Docker. As of May of 2019, docker does not work natively on WSL. The way around it is to have Docker 
+be installed on windows and just install the docker client on WSL. Nick Janetakis has a great write up
+on his <a href="https://nickjanetakis.com/blog/setting-up-docker-for-windows-and-wsl-to-work-flawlessly">blog</a> and I got docker working from WSL in no time. 
 
 3\. Install kubectl. The official <a href="https://kubernetes.io/docs/tasks/tools/install-kubectl/">docs</a> covers 
 a lot of ways but none that covers wsl. I found a writeup on <a href="https://devkimchi.com/2018/06/05/running-kubernetes-on-wsl/">DevKimchi</a> where I found out that the windows Docker settings has an option to enable
-Kubernetes. Once enabled just copy the configuration from windows into wsl and also install the kubernetes cli in wsl.
+Kubernetes. Once enabled just copy the configuration from windows into WSL and also install the kubernetes cli in WSL.
 
 
     ::::bash
@@ -39,7 +39,7 @@ Kubernetes. Once enabled just copy the configuration from windows into wsl and a
     $ sudo mv ./kubectl /usr/local/bin/kubectl
 
 
-4\. Install Kops. Kops is a tool used to create, destroy, upgrade and maintain production-grade, highly available, Kubernetes clusters from the command line. Installing on wsl was pretty straight forward.
+4\. Install <a href="https://github.com/kubernetes/kops/">Kops</a>. Kops is a tool used to create, destroy, upgrade and maintain production-grade, highly available, Kubernetes clusters from the command line. Installing on WSL was pretty straight forward.
 
 
     ::::bash
@@ -69,7 +69,7 @@ Kubernetes. Once enabled just copy the configuration from windows into wsl and a
     $ aws s3api create-bucket --bucket some-kops-state-bucket --region us-east-1
 
 
-7\. Setup some environment variables to help create our clusters. These variable names are defaults which are 
+7\. Setup environment variables to help create our clusters. These variable names are defaults which are 
 used by kops. Just make sure sure the cluster name you choose ends with "k8s.local". You can also add this to your .bashrc file.
 
 
@@ -98,15 +98,14 @@ Validate your cluster with the command below -
 
 You should proceed further only after you see that your cluster is ready. This was also one of the pain points for me as I wasn't sure why my clusters were not getting created properly. It turned out that it was due to AWS availability in the "us-east-1c" zone. I switched to "us-east-2c" and all was good.
 
-9\. Install Helm. Helm is your package manager for Kubernetes. We will install Dask on the kubernetes 
-cluster we created using helm. Installing helm is pretty straight forward. <a href="https://zero-to-jupyterhub.readthedocs.io/en/v0.4-doc/setup-helm.html">Zero-to-jupyterhub</a> docs do a great job.
+9\. Install <a href="https://helm.sh/">Helm</a>. Helm is your package manager for Kubernetes. We will install Dask on the kubernetes cluster we created using helm. Installing helm is pretty straight forward. <a href="https://zero-to-jupyterhub.readthedocs.io/en/v0.4-doc/setup-helm.html">Zero-to-jupyterhub</a> docs do a great job.
 
 
     ::::bash
     $ curl https://raw.githubusercontent.com/kubernetes/helm/master/scripts/get | bash
 
 
-Now create a tiller account and set it up on your kubernetes cluster
+Now setup <a href="https://helm.sh/docs/glossary/#tiller">tiller</a> on your kubernetes cluster
 
 
     ::::bash
