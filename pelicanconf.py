@@ -5,7 +5,7 @@ from __future__ import unicode_literals
 AUTHOR = u'Srini'
 SITENAME = u"Srini's Point of View"
 SITESUBTITLE = """My thoughts on technology, food and other fancies…"""
-SITEURL = ''
+SITEURL = 'https://www.nyayapati.com/srao'
 
 PATH = 'content'
 CUSTOM_CSS = 'static/custom.css'
