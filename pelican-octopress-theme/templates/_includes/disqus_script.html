@@ -1,14 +1,15 @@
 {% if DISQUS_SITENAME %}
-<script>
+<script type="text/javascript">
+	var disqus_shortname = '{{ DISQUS_SITENAME }}';
 	{% if article %}
-	this.page.url = '{{ SITEURL_ABS }}/{{ article.url }}';  // Replace PAGE_URL with your page's canonical URL variable
-	this.page.identifier = '/{{ article.url }}'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+	var disqus_identifier = '/{{ article.url }}';
+	var disqus_url = '{{ SITEURL }}/{{ article.url }}';
+	var disqus_title = '{{ article.title }}';
 	{% endif %}
-	(function () { // DON'T EDIT BELOW THIS LINE
-		var d = document, s = d.createElement('script');
-		s.src = 'https://srinispointofview.disqus.com/embed.js';
-		s.setAttribute('data-timestamp', +new Date());
-		(d.head || d.body).appendChild(s);
+	(function () {
+		var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+		dsq.src = "//" + disqus_shortname + '.disqus.com/embed.js';
+		(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
 	})();
 </script>
 {% endif %}
